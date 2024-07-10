@@ -1,0 +1,5 @@
+c9a55cf4f2a59ce1ea8645af803d4f2c0af5f3be0b9a8ca9a7244606504c6154  C:/Users/rshat/Documents/Coding/Point-Gun-White-Paper/PG_payment.png
+413273d896ac4e8f6ae28424be8b880a85f9b90aa064f37b8b98413b97057b73  C:/Users/rshat/Documents/Coding/Point-Gun-White-Paper/PG_Whitepaper.docx
+3d5028f32f6b7ab278071c2ae479f28027cf90405013319f620eb2d5def03a4a  C:/Users/rshat/Documents/Coding/Point-Gun-White-Paper/README.md
+7dbfbab5f39ab94082e23deaf6fa335533b8fd21ee76f00fcdf1b781c3a8d38f  C:/Users/rshat/Documents/Coding/Point-Gun-White-Paper/ryanshatch_0x38771BE8_public.asc
+0304b0a12cf178251aa2792cea7c02caf83309f04b53117bf760e6db446c1729  C:/Users/rshat/Documents/Coding/Point-Gun-White-Paper/sha256sum.txt
